@@ -3,3 +3,9 @@
 /ProjectSettings
 /Temp
 /UserSettings
+/.vs
+/.vscode
+/obj
+*.vsconfig
+*.csproj
+*.sln
